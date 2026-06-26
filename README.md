@@ -1,2 +1,2 @@
-# IUWTPGTMBAC
+# IYWTPATTMW
 Minecraft like game.
